@@ -1,0 +1,1 @@
+# Detect count hay bales
